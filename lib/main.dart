@@ -3,9 +3,10 @@
 import 'package:flutter/material.dart';
 
 import 'package:lottie/lottie.dart';
+import 'package:splash_screen/welcome.dart';
 
 
-void main() async {
+void main(){
   
   runApp(const MyApp());
 }
